@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:admin="http://webns.net/mvcb/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<rdf:Description rdf:about="">
+<admin:generatorAgent rdf:resource="http://purl.org/NET/erdf/extract"/>
+</rdf:Description>
+<rdf:Description rdf:about=""/>
+<rdf:Description rdf:about="#sid-AFF9E288-9992-4512-9436-CC8BEB384412">
+<type xmlns="http://oryx-editor.org/">ProcessCollapsed</type>
+<bounds xmlns="http://oryx-editor.org/">265.61563209454687,230.22683302264653,65.61563209454687,155.22683302264653</bounds>
+<entry xmlns="http://oryx-editor.org/"/>
+<processlink_bounds xmlns="http://oryx-editor.org/">83.5,61 97.5,75</processlink_bounds>
+<orientation xmlns="http://oryx-editor.org/">left-to-right</orientation>
+<textdirection xmlns="http://oryx-editor.org/">0</textdirection>
+<color xmlns="http://oryx-editor.org/">#9FD7FF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/">For specific requirements on an EMS certifiable with ISO 14001 and EMAS check EMAS Annex II.
+
+"By following the planning steps, you have gained an in-depth view on existing organisational infrastructure, management practices and procedures. Now it's time to take action and implement what you have learned from your environmental review. Here are a few guidelines:You should make sure that the internal structure and processes of your organisation conform to the objectives and targets as declared in your environmental policy. If this is not the case, they should be adapted accordingly.
+An environmental management system may be informal in nature, but it must have a formal structure. Although the top management has to take accountability for the effectiveness of the environmental management system, it must delegate appropriate tasks and responsibilities to individuals. For the system to operate well for all those involved, it is vital to know who does what – how, when and with what authority. These responsibilities must be in writing and formalised. It is also vital that one person is given full charge of the environmental management system. This person should be ultimately responsible for the EMS implementation and should provide feedback on its strengths and weaknesses and coordinate any needed improvements.
+The effectiveness and benefits of your EMS will depend on the initial investments during this critical phase. As such, it is important to develop the staff in terms of competence by disseminating knowledge pertinent to good environmental management performance. In this vein, organisations should tailor training programmes and raise internal awareness to meet specific needs of both the organisation as a whole and individual employees. Involving employees in the different steps of the EMS will motivate them to participate in activities designed to benefit the organisation as a whole.
+A trademark of EMAS is active employee participation. This can be achieved only through an interactive and transparent internal communication, which engages the entire workforce. Your EMS will constantly be evolving in line with your environmental policy – especially as your environmental performance objectives become more ambitious. Therefore, it is imperative to keep written records in order to maintain an accurate overview of your EMS's progress. Furthermore, by creating informative documents for your employees such as operational procedures, work instructions, etc., you can clarify current protocols and procedures, as well as minimize questions.
+Your organisation will also ensure that documented information related to its EMS is properly identified and usable, under the right format, and that it is adequately protected and controlled.
+An effective Operational Control is fundamental to identifying and planning of operations associated with significant environmental aspects, as it ensures coherence with your environmental policy and helps achieve your objectives and targets. Accordingly, Operational Control aims to improve daily working procedures or routines in order to address risks and opportunities associated with the organisation’s environmental aspects. Your Operational Control should focus on those risks and opportunities that help your organisation to ensure that its EMS can be effective, to prevent unwanted effects or accidents and to achieve continuous improvement of its environmental performance. These can include activities such as equipment maintenance or working with on-site contractors, suppliers or vendors. Don’t forget to adopt a lifecycle perspective when addressing risks and opportunities and to keep documentation of how you address them.
+Note: The tools 3 – Environmental Responsibilities and 4-Environmental Data, available on the page EMAS Implementation tools can help you implement your environment management system."
+(Source: 
+https://ec.europa.eu/environment/emas/join_emas/how_does_it_work_step4_en.htm#hdiw)</description>
+<title xmlns="http://oryx-editor.org/">implementation of EMS 
+(ISO 14001)
+</title>
+<customimage xmlns="http://oryx-editor.org/">default</customimage>
+<bordercolor xmlns="http://oryx-editor.org/">#9FD7FF</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-9CDEC723-AA56-40C7-9EF0-83E8D3A196A2"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-9CDEC723-AA56-40C7-9EF0-83E8D3A196A2"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#sid-C2DAE36E-6811-4815-840F-1D17518FE3BF"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-66C3F1DB-64D4-40AB-89B9-204AEE6D0C79">
+<type xmlns="http://oryx-editor.org/">ProcessCollapsed</type>
+<bounds xmlns="http://oryx-editor.org/">755.6156320945469,230.22683302264647,555.6156320945469,155.22683302264647</bounds>
+<entry xmlns="http://oryx-editor.org/">/model/12488267cf2740c79e11a7e16e1e0a79</entry>
+<processlink_bounds xmlns="http://oryx-editor.org/">83.5,61 97.5,75</processlink_bounds>
+<orientation xmlns="http://oryx-editor.org/">left-to-right</orientation>
+<textdirection xmlns="http://oryx-editor.org/">0</textdirection>
+<color xmlns="http://oryx-editor.org/">#9FD7FF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/">Check EMAS for more detail on this ..
+
+"
+Step 7: Prepare your environmental report.
+The environmental report (environmental statement) is your window to the world; as such it should be a clear and concise document that effectively communicates your environmental performance to stakeholders. This environmental report outlines your organisation's achievements in terms of its environmental objectives, detailing both past environmental actions and measures, as well as setting future environmental targets. The report also describes how your organisation has taken into consideration the best practices for environmental management and the indicators, which are listed in the Sectoral Reference Documents relevant to your organisation. (NB: this applies only if the relevant Sectoral Reference Documents have been published and indeed if such best practices for environmental management and indicators are applicable to the significant aspects of your organisation).
+
+Note: The tool 4 – Environmental data, available on the EMAS Implementation tools webpage, was designed to facilitate the preparation of environmental reports for organisations." (Source: https://ec.europa.eu/environment/emas/join_emas/how_does_it_work_step7_en.htm#hdiw)
+</description>
+<title xmlns="http://oryx-editor.org/">environmental reporting</title>
+<customimage xmlns="http://oryx-editor.org/">default</customimage>
+<bordercolor xmlns="http://oryx-editor.org/">#9FD7FF</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-2B1B2D87-D489-42C9-AF57-2DDDB64F3570"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-2B1B2D87-D489-42C9-AF57-2DDDB64F3570"/>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-435A2A16-CF83-49C8-BD74-CB1DC3642EAB"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-435A2A16-CF83-49C8-BD74-CB1DC3642EAB"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#sid-C2DAE36E-6811-4815-840F-1D17518FE3BF"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-1ABE1EA7-59AD-4B5A-A79D-F67F75B0D558">
+<type xmlns="http://oryx-editor.org/">ProcessCollapsed</type>
+<bounds xmlns="http://oryx-editor.org/">510.61563209454687,230.22683302264653,310.61563209454687,155.22683302264653</bounds>
+<entry xmlns="http://oryx-editor.org/">/model/112c5845280240278a6cc59c0e1f50ab</entry>
+<processlink_bounds xmlns="http://oryx-editor.org/">83.5,61 97.5,75</processlink_bounds>
+<orientation xmlns="http://oryx-editor.org/">left-to-right</orientation>
+<textdirection xmlns="http://oryx-editor.org/">0</textdirection>
+<color xmlns="http://oryx-editor.org/">#9FD7FF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/">CHeck EMAS (WHICH SECTION/ARTICLE?) ...
+
+"Step 5: Check the effectiveness of your Environmental Management System through an internal environmental audit.
+Once your management system has been implemented and is operational, you will need to monitor your performance of procedures and practices in terms of environmental aspects.
+
+Establish a management control panel with environmental performance indicators, as well as the follow up of your environmental programme. These indicators are vital for navigating, managing and communicating environmental performance, as they provide information and guidance for continuous improvement. They improve clarity, transparency make information easily comparable. Continuous monitoring and measuring is essential for providing relevant data at the request of public authorities, as well as controlling the use of resources and charting long term environmental performance.
+
+Things do not always run to plan, and environmental management systems are no different. They take time to run smoothly, which means corrective actions should be anticipated. Being prepared to react quickly and adequately helps moderate negative effects and prevent problems from occurring further, and ensures that your organisation finds itself quickly back on track.
+
+Carry out an internal environmental audit, consisting of a periodic assessment of how well the EMS is functioning and how environmental performance is being improved. The audit also checks the compliance of the EMS with the EMAS Regulation. The EMS audit is a systematic, routine and documented process that assesses how the environmental management system is working. The EMS audit can be carried out by your organisation’s staff or with the help of outside experts. Either way, it is essential that the auditors are objective and properly trained. Internal audit results are examined regularly, at least once a year.
+
+To carry out an effective internal audit:
+
+develop audit procedures and protocols;
+master the overall management of the audit process;
+select and carefully train your auditors;
+collect the appropriate, relevant evidence and analyse its meaning;
+translate your findings into action that will improve performance." (Source: https://ec.europa.eu/environment/emas/join_emas/how_does_it_work_step5_en.htm#hdiw)
+
+</description>
+<title xmlns="http://oryx-editor.org/">internal environmental audit
+</title>
+<customimage xmlns="http://oryx-editor.org/">default</customimage>
+<bordercolor xmlns="http://oryx-editor.org/">#9FD7FF</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-8008DBD1-4385-460F-87F0-2A831096B5BE"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-8008DBD1-4385-460F-87F0-2A831096B5BE"/>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-D2BF8C6F-1222-40CE-B8FF-CD2B867B4E22"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-D2BF8C6F-1222-40CE-B8FF-CD2B867B4E22"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#sid-C2DAE36E-6811-4815-840F-1D17518FE3BF"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-84E24740-9664-41D7-8DC1-2551BB9B6B2D">
+<type xmlns="http://oryx-editor.org/">Process</type>
+<bounds xmlns="http://oryx-editor.org/">265.61563209454687,131.72809949356838,65.61563209454687,56.72809949356838</bounds>
+<orientation xmlns="http://oryx-editor.org/">left-to-right</orientation>
+<textdirection xmlns="http://oryx-editor.org/">0</textdirection>
+<color xmlns="http://oryx-editor.org/">#9FD7FF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/"/>
+<title xmlns="http://oryx-editor.org/">definition of environmental policy and environmental programme</title>
+<customimage xmlns="http://oryx-editor.org/">default</customimage>
+<meta-prozessverantwortlicher xmlns="http://oryx-editor.org/"/>
+<bordercolor xmlns="http://oryx-editor.org/">#9FD7FF</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-52B6DE1C-AAF5-43B0-9295-692CBDEDF909"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-52B6DE1C-AAF5-43B0-9295-692CBDEDF909"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#sid-C2DAE36E-6811-4815-840F-1D17518FE3BF"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-1272BDD8-CA94-407B-B46B-AF38A6D9D825">
+<type xmlns="http://oryx-editor.org/">ProcessCollapsed</type>
+<bounds xmlns="http://oryx-editor.org/">510.61563209454687,131.72809949356838,310.61563209454687,56.72809949356838</bounds>
+<entry xmlns="http://oryx-editor.org/">/model/fe2b9982ad164a21861c7623186b1065</entry>
+<processlink_bounds xmlns="http://oryx-editor.org/">83.5,61 97.5,75</processlink_bounds>
+<orientation xmlns="http://oryx-editor.org/">left-to-right</orientation>
+<textdirection xmlns="http://oryx-editor.org/">0</textdirection>
+<color xmlns="http://oryx-editor.org/">#9FD7FF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/"/>
+<title xmlns="http://oryx-editor.org/">manage substantial changes
+</title>
+<customimage xmlns="http://oryx-editor.org/">default</customimage>
+<bordercolor xmlns="http://oryx-editor.org/">#9FD7FF</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-5B587E72-6308-435F-A56D-C41104C08F2E"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-5B587E72-6308-435F-A56D-C41104C08F2E"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#sid-C2DAE36E-6811-4815-840F-1D17518FE3BF"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-4DD7FC2C-A73E-493D-906D-641B7BD75E4B">
+<type xmlns="http://oryx-editor.org/">Process</type>
+<bounds xmlns="http://oryx-editor.org/">1128.4453790491966,415.36495352301256,928.4453790491967,340.36495352301256</bounds>
+<orientation xmlns="http://oryx-editor.org/">left-to-right</orientation>
+<textdirection xmlns="http://oryx-editor.org/">0</textdirection>
+<color xmlns="http://oryx-editor.org/">#9FD7FF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/"/>
+<title xmlns="http://oryx-editor.org/">communication and logo use</title>
+<customimage xmlns="http://oryx-editor.org/">default</customimage>
+<meta-prozessverantwortlicher xmlns="http://oryx-editor.org/"/>
+<bordercolor xmlns="http://oryx-editor.org/">#9FD7FF</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<parent xmlns="http://raziel.org/" rdf:resource="#sid-C2DAE36E-6811-4815-840F-1D17518FE3BF"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-C2DAE36E-6811-4815-840F-1D17518FE3BF">
+<type xmlns="http://oryx-editor.org/">Group</type>
+<bounds xmlns="http://oryx-editor.org/">1624.1269688426578,1083.9250459939535,454.08237668749143,646.6451704019098</bounds>
+<color xmlns="http://oryx-editor.org/">#FFFFFF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/">"The environmental policy is a public document prepared by your organisation, which describes your commitments to the environment and specifies your organisation's overall intentions and direction in terms of environmental performance. It also provides a framework for setting objectives and targets. An environmental policy should be adopted at the highest managerial level, be revised periodically and specify: compliance with legal requirements and beyond, commitment to continuous improvement in environmental performance and engagement in preventing pollution.
+The environmental programme is an action plan that translates your organisation’s environmental policy into specific objectives – overall environmental goals directly arising from environmental policy – and targets – performance requirements that emerge from these objectives). The SMART (Specific, Measurable, Achievable, Realistic, Time-bound) criteria can help you formulate these objectives and targets. Your environmental programme should contain concrete measures that designate responsibilities and identify the means to achieve the defined environmental objectives and targets, as well as to meet deadlines. The programme integrates improvements in environmental performance into the day-to-day operations of the organisation – it leads to activities that promote better environmental performance. As such, it can be seen as a driver for continuous improvement. To help you identify relevant environmental aspects, best practices and indicators that should be part of your environmental programme, please refer to the Sectoral Reference Documents, which are available for specific sectors."
+Source. https://ec.europa.eu/environment/emas/join_emas/how_does_it_work_step3_en.htm#hdiw</description>
+<title xmlns="http://oryx-editor.org/">EMAS processes</title>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-0D41175F-4062-400E-8065-75BCE1568634">
+<type xmlns="http://oryx-editor.org/">ProcessCollapsed</type>
+<bounds xmlns="http://oryx-editor.org/">440.9474576974369,105.87301499198645,240.94745769743668,30.87301499198645</bounds>
+<entry xmlns="http://oryx-editor.org/">/model/f94f178c45d2415a93c3f76fa4baaffc</entry>
+<processlink_bounds xmlns="http://oryx-editor.org/">83.5,61 97.5,75</processlink_bounds>
+<orientation xmlns="http://oryx-editor.org/">left-to-right</orientation>
+<textdirection xmlns="http://oryx-editor.org/">0</textdirection>
+<color xmlns="http://oryx-editor.org/">#9FD7FF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/">TODO : For requirements see EMAS
+
+"
+Step 8: Get your EMS verified and your environmental report validated.
+If you have completed the previous seven steps your organisation has already developed a functioning environmental management system. The next steps will guide your organisation through the verification, validation and registration process to officially become EMAS registered.
+
+The verification of your EMS is carried out by an independent environmental verifier, who is accredited or licensed by an EMAS Accreditation / Licensing Body of a Member State. You can easily obtain information on accredited environmental verifiers by contacting your Competent Body.
+
+The environmental verifier will examine and verify your organisation’s conformity to the EMAS Regulation in terms of your environmental review, environmental policy, compliance to environmental regulations, as well as the environmental management system and internal audit. This verification is carried out by the environmental verifier examining documents, visiting the organisation and interviewing personnel.
+
+The environmental verifier shall also validate the content of your environmental report." (Source: https://ec.europa.eu/environment/emas/join_emas/how_does_it_work_step8_en.htm#hdiw)
+</description>
+<type xmlns="http://oryx-editor.org/">http://www.signavio.com/stencilsets/processmap#Process</type>
+<title xmlns="http://oryx-editor.org/">validation and verification</title>
+<customimage xmlns="http://oryx-editor.org/">default</customimage>
+<bordercolor xmlns="http://oryx-editor.org/">#9FD7FF</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-7C951DB6-1342-4518-AE7C-CE82CA14686D"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-7C951DB6-1342-4518-AE7C-CE82CA14686D"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#sid-023CB0BE-5D3E-4F6B-9BB7-A8C719054889"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-75DEDA8E-D4D8-4BFD-B4F1-FA957FDF8A83">
+<type xmlns="http://oryx-editor.org/">ProcessCollapsed</type>
+<bounds xmlns="http://oryx-editor.org/">716.6592316130844,105.87301499198645,516.6592316130841,30.87301499198645</bounds>
+<entry xmlns="http://oryx-editor.org/">/model/f8429a330e7041bcba217af678db6428</entry>
+<processlink_bounds xmlns="http://oryx-editor.org/">83.5,61 97.5,75</processlink_bounds>
+<orientation xmlns="http://oryx-editor.org/">left-to-right</orientation>
+<textdirection xmlns="http://oryx-editor.org/">0</textdirection>
+<color xmlns="http://oryx-editor.org/">#9FD7FF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/"/>
+<title xmlns="http://oryx-editor.org/">application for registration</title>
+<customimage xmlns="http://oryx-editor.org/">default</customimage>
+<bordercolor xmlns="http://oryx-editor.org/">#9FD7FF</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<parent xmlns="http://raziel.org/" rdf:resource="#sid-023CB0BE-5D3E-4F6B-9BB7-A8C719054889"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-023CB0BE-5D3E-4F6B-9BB7-A8C719054889">
+<type xmlns="http://oryx-editor.org/">Group</type>
+<bounds xmlns="http://oryx-editor.org/">1624.1269688426578,636.8720034245564,849.242703623249,515.2979133287025</bounds>
+<color xmlns="http://oryx-editor.org/">#FFFFFF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/"/>
+<title xmlns="http://oryx-editor.org/">Direct EMAS Stakeholders</title>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-FD2D9BA7-8A1B-4838-AD2C-A9FDF93D4893">
+<type xmlns="http://oryx-editor.org/">Group</type>
+<bounds xmlns="http://oryx-editor.org/">1624.1269688426578,1190.0518579511186,454.08237668749155,1094.6451704019096</bounds>
+<color xmlns="http://oryx-editor.org/">#FFFFFF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/"/>
+<title xmlns="http://oryx-editor.org/">other Environmental Management Processes</title>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-074CCA14-6515-4C8C-8532-BCD1E9B66570">
+<type xmlns="http://oryx-editor.org/">Process</type>
+<bounds xmlns="http://oryx-editor.org/">207.00000000000003,110.22683302264659,7.000000000000007,35.226833022646616</bounds>
+<orientation xmlns="http://oryx-editor.org/">left-to-right</orientation>
+<textdirection xmlns="http://oryx-editor.org/">0</textdirection>
+<color xmlns="http://oryx-editor.org/">#00FF00</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/">This is the first step to undertake for organizations that are interested in an EMAS registration. 
+A list of competent bodies can be found on the following EU website: https://ec.europa.eu/environment/emas/emas_contacts/competent_bodies_en.htm</description>
+<title xmlns="http://oryx-editor.org/">contact competent body
+</title>
+<customimage xmlns="http://oryx-editor.org/">default</customimage>
+<meta-prozessverantwortlicher xmlns="http://oryx-editor.org/"/>
+<bordercolor xmlns="http://oryx-editor.org/">#9FD7FF</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-1A3E01BE-93F3-4579-8DCE-0274ACF6E567"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-1A3E01BE-93F3-4579-8DCE-0274ACF6E567"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#sid-DC1A8D88-0030-427E-ACE2-BC4A66DC318A"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-109A8C3A-FA31-4768-AA61-482C614B1219">
+<type xmlns="http://oryx-editor.org/">ProcessCollapsed</type>
+<bounds xmlns="http://oryx-editor.org/">207.00000000000003,227.00622106434213,7.000000000000021,152.00622106434213</bounds>
+<entry xmlns="http://oryx-editor.org/">/model/31f4af4590714c79a99caa3841b0637b</entry>
+<processlink_bounds xmlns="http://oryx-editor.org/">83.5,61 97.5,75</processlink_bounds>
+<orientation xmlns="http://oryx-editor.org/">left-to-right</orientation>
+<textdirection xmlns="http://oryx-editor.org/">0</textdirection>
+<color xmlns="http://oryx-editor.org/">#9FD7FF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/"/>
+<title xmlns="http://oryx-editor.org/">initial environmental review</title>
+<customimage xmlns="http://oryx-editor.org/">default</customimage>
+<bordercolor xmlns="http://oryx-editor.org/">#9FD7FF</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-422EC826-3380-4426-B184-C9566C644E9C"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-422EC826-3380-4426-B184-C9566C644E9C"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#sid-DC1A8D88-0030-427E-ACE2-BC4A66DC318A"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-DC1A8D88-0030-427E-ACE2-BC4A66DC318A">
+<type xmlns="http://oryx-editor.org/">Group</type>
+<bounds xmlns="http://oryx-editor.org/">439.09993181699474,1190.0518579511186,225.44283708130735,646.6451704019096</bounds>
+<color xmlns="http://oryx-editor.org/">#FFFFFF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/"/>
+<title xmlns="http://oryx-editor.org/">Preparation for EMAS</title>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-9CDEC723-AA56-40C7-9EF0-83E8D3A196A2">
+<type xmlns="http://oryx-editor.org/">ProcessLink</type>
+<bounds xmlns="http://oryx-editor.org/">788.0925400320383,839.3720034245564,720.2292587820383,839.3720034245564</bounds>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/">100 37.5 100 37.5  # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-1ABE1EA7-59AD-4B5A-A79D-F67F75B0D558"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-1ABE1EA7-59AD-4B5A-A79D-F67F75B0D558"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-8008DBD1-4385-460F-87F0-2A831096B5BE">
+<type xmlns="http://oryx-editor.org/">ProcessLink</type>
+<bounds xmlns="http://oryx-editor.org/">1033.0925400320384,839.3720034245564,965.2292587820384,839.3720034245564</bounds>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/">100 37.5 100 37.5  # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-66C3F1DB-64D4-40AB-89B9-204AEE6D0C79"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-66C3F1DB-64D4-40AB-89B9-204AEE6D0C79"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-CD6343D7-26AA-44E0-A0AA-38B874E71E41">
+<type xmlns="http://oryx-editor.org/">Group</type>
+<bounds xmlns="http://oryx-editor.org/">833.0155574032864,636.8720034245564,454.08237668749143,515.2979133287025</bounds>
+<color xmlns="http://oryx-editor.org/">#FFFFFF</color>
+<flat xmlns="http://oryx-editor.org/">false</flat>
+<description xmlns="http://oryx-editor.org/"/>
+<title xmlns="http://oryx-editor.org/">other Stakeholders</title>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/"> # </docker>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-7C951DB6-1342-4518-AE7C-CE82CA14686D">
+<type xmlns="http://oryx-editor.org/">ProcessLink</type>
+<bounds xmlns="http://oryx-editor.org/">1389.2952461587388,583.670928320689,1290.6801906939404,583.670928320689</bounds>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/">100.00000000000018 37.5 77.93773693312289 37.5  # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-75DEDA8E-D4D8-4BFD-B4F1-FA957FDF8A83"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-75DEDA8E-D4D8-4BFD-B4F1-FA957FDF8A83"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-D2BF8C6F-1222-40CE-B8FF-CD2B867B4E22">
+<type xmlns="http://oryx-editor.org/">ProcessLink</type>
+<bounds xmlns="http://oryx-editor.org/">788.0925400320383,839.3720034245564,720.2292587820383,839.3720034245564</bounds>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/">100 37.5 100 37.5  # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-AFF9E288-9992-4512-9436-CC8BEB384412"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-AFF9E288-9992-4512-9436-CC8BEB384412"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-422EC826-3380-4426-B184-C9566C644E9C">
+<type xmlns="http://oryx-editor.org/">ProcessLink</type>
+<bounds xmlns="http://oryx-editor.org/">541.336907307186,836.1513914662517,432.53778904933165,744.3639506545767</bounds>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/">100 40.99068075909861 478.2377089423086 744.3639506545767 478.2377089423086 836.1513914662517 100 37.5  # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-84E24740-9664-41D7-8DC1-2551BB9B6B2D"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-84E24740-9664-41D7-8DC1-2551BB9B6B2D"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-2B1B2D87-D489-42C9-AF57-2DDDB64F3570">
+<type xmlns="http://oryx-editor.org/">ProcessLink</type>
+<bounds xmlns="http://oryx-editor.org/">1406.588360264147,1024.5101239249225,1198.0843631484054,858.0753565667756</bounds>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/">99.99999999999994 37.5 1311.2377089423085 1024.5101239249223 1311.2377089423085 858.0753565667756 100 56.203353142219385  # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-4DD7FC2C-A73E-493D-906D-641B7BD75E4B"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-4DD7FC2C-A73E-493D-906D-641B7BD75E4B"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-1A3E01BE-93F3-4579-8DCE-0274ACF6E567">
+<type xmlns="http://oryx-editor.org/">ProcessLink</type>
+<bounds xmlns="http://oryx-editor.org/">332.4428370813074,797.7454937341461,332.4428370813074,757.7779011566618</bounds>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/">100 37.5 100.00000000000001 37.499999999999986  # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-109A8C3A-FA31-4768-AA61-482C614B1219"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-109A8C3A-FA31-4768-AA61-482C614B1219"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-435A2A16-CF83-49C8-BD74-CB1DC3642EAB">
+<type xmlns="http://oryx-editor.org/">ProcessLink</type>
+<bounds xmlns="http://oryx-editor.org/">1220.2377089423085,839.3720034245563,1210.0110206447812,621.6277243317948</bounds>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/">130.04754762162293 37.5 1220.2377089423085 839.3720034245563 100 37.5  # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-0D41175F-4062-400E-8065-75BCE1568634"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-0D41175F-4062-400E-8065-75BCE1568634"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-52B6DE1C-AAF5-43B0-9295-692CBDEDF909">
+<type xmlns="http://oryx-editor.org/">ProcessLink</type>
+<bounds xmlns="http://oryx-editor.org/">619.6980087820383,801.434978351152,619.6980087820383,778.8102949688825</bounds>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/">100 37.5 100 37.5  # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-AFF9E288-9992-4512-9436-CC8BEB384412"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-AFF9E288-9992-4512-9436-CC8BEB384412"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#sid-5B587E72-6308-435F-A56D-C41104C08F2E">
+<type xmlns="http://oryx-editor.org/">ProcessLink</type>
+<bounds xmlns="http://oryx-editor.org/">1103.781095025025,740.8732698954782,965.2406750996547,567.8547446084712</bounds>
+<bordercolor xmlns="http://oryx-editor.org/">#000000</bordercolor>
+<docker xmlns="http://oryx-editor.org/">100.00000000000011 21.68381628778218 1022 567.8547446084712 1022 740.8732698954782 100 37.5  # </docker>
+<outgoing xmlns="http://raziel.org/" rdf:resource="#sid-0D41175F-4062-400E-8065-75BCE1568634"/>
+<target xmlns="http://raziel.org/" rdf:resource="#sid-0D41175F-4062-400E-8065-75BCE1568634"/>
+<parent xmlns="http://raziel.org/" rdf:resource="#canvas"/>
+</rdf:Description>
+<rdf:Description rdf:about="#canvas">
+<rdf:type rdf:resource="http://oryx-editor.org/canvas"/>
+<type xmlns="http://oryx-editor.org/">Diagram</type>
+<bounds xmlns="http://oryx-editor.org/">1724.1269688426578,1290.0518579511186,0,0</bounds>
+<orientation xmlns="http://oryx-editor.org/">horizontal</orientation>
+<iso9000ff xmlns="http://oryx-editor.org/">false</iso9000ff>
+<processgoal xmlns="http://oryx-editor.org/"/>
+<description xmlns="http://oryx-editor.org/"/>
+<meta-prozessverantwortlicher xmlns="http://oryx-editor.org/"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-C2DAE36E-6811-4815-840F-1D17518FE3BF"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-AFF9E288-9992-4512-9436-CC8BEB384412"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-66C3F1DB-64D4-40AB-89B9-204AEE6D0C79"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-1ABE1EA7-59AD-4B5A-A79D-F67F75B0D558"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-84E24740-9664-41D7-8DC1-2551BB9B6B2D"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-1272BDD8-CA94-407B-B46B-AF38A6D9D825"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-4DD7FC2C-A73E-493D-906D-641B7BD75E4B"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-023CB0BE-5D3E-4F6B-9BB7-A8C719054889"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-0D41175F-4062-400E-8065-75BCE1568634"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-75DEDA8E-D4D8-4BFD-B4F1-FA957FDF8A83"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-FD2D9BA7-8A1B-4838-AD2C-A9FDF93D4893"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-DC1A8D88-0030-427E-ACE2-BC4A66DC318A"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-074CCA14-6515-4C8C-8532-BCD1E9B66570"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-109A8C3A-FA31-4768-AA61-482C614B1219"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-9CDEC723-AA56-40C7-9EF0-83E8D3A196A2"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-8008DBD1-4385-460F-87F0-2A831096B5BE"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-CD6343D7-26AA-44E0-A0AA-38B874E71E41"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-7C951DB6-1342-4518-AE7C-CE82CA14686D"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-D2BF8C6F-1222-40CE-B8FF-CD2B867B4E22"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-422EC826-3380-4426-B184-C9566C644E9C"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-2B1B2D87-D489-42C9-AF57-2DDDB64F3570"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-1A3E01BE-93F3-4579-8DCE-0274ACF6E567"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-435A2A16-CF83-49C8-BD74-CB1DC3642EAB"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-52B6DE1C-AAF5-43B0-9295-692CBDEDF909"/>
+<render xmlns="http://oryx-editor.org/" rdf:resource="#sid-5B587E72-6308-435F-A56D-C41104C08F2E"/>
+<stencilset xmlns="http://oryx-editor.org/" rdf:resource="/stencilsets/processmap/processmap.json?version=14.4.1"/>
+</rdf:Description>
+</rdf:RDF>
